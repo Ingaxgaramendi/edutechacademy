@@ -2,7 +2,7 @@
 
 ---
 
-## Prompt usado en Gemini (simulado)
+## Prompt usado en Gemini
 
 Actúa como un Senior Android Developer experto en Jetpack Compose.
 Analiza una app educativa llamada EduTech Academy y mejora su UI/UX.
