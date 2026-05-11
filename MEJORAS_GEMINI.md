@@ -30,7 +30,7 @@ Requisitos:
 
 ## Antes
 
-![Login Antes](capturas/LOGINantes.jpeg)
+![Login Antes](capturas/LOGINantes.png)
 
 ## Después
 
